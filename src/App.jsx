@@ -25,7 +25,7 @@ function App() {
       setCount(false);
     }
   };
-  console.log({ error });
+ 
   return (
     <div className="app">
       {count ? (
