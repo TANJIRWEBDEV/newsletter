@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/TANJIRWEBDEV/newsletter
-- Live Site URL: https://jade-lolly-ca2181.netlify.app/
+- Live Site URL: https://chimerical-cat-757776.netlify.app/
 
 ## My process
 
