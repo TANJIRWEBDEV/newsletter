@@ -42,3 +42,4 @@ Users should be able to:
 
 - Website - https://github.com/TANJIRWEBDEV
 - Frontend Mentor - https://www.frontendmentor.io/profile/TANJIRWEBDEV
+- Twitter - https://twitter.com/TanWevDev
