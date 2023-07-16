@@ -5,7 +5,7 @@ import { useWindowSize } from "@uidotdev/usehooks";
 
 const Complete = ({ email, sCount }) => {
   const res = useWindowSize();
-  console.log(email);
+
   return (
     <div className="main">
       <div className="com__items">
